@@ -7,4 +7,6 @@ function happyHolidaysTo(){
   
 }
 
-
+function happyCustomHolidaysTo(){
+  
+}
