@@ -10,3 +10,7 @@ function happyHolidaysTo(){
 function happyCustomHolidaysTo(){
   
 }
+
+function holidayCountdown(){
+  
+}
